@@ -1,0 +1,3 @@
+[submodule "hanuman"]
+	path = hanuman
+	url = https://github.com/samanyougarg/hanuman.git
