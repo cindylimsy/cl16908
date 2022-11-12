@@ -31,7 +31,7 @@ twitter_username: swarls_lim
 github_username:  cl16908
 
 # Build settings
-theme: minima
+theme: "minima"
 # remote_theme: "hanuman"
 plugins:
   - jekyll-feed
