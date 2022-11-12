@@ -5,7 +5,7 @@ cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/cl16908/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://cl16908.github.io" # the base hostname & protocol for your site
+url: "https://cl16908.github.io/cl16908/" # the base hostname & protocol for your site
 
 pagination:
 
