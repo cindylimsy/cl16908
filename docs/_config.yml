@@ -34,7 +34,7 @@ github_username:  cl16908
 # theme: hanuman
 remote_theme: "hanuman"
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
