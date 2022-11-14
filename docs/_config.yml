@@ -31,9 +31,10 @@ twitter_username: swarls_lim
 github_username:  cl16908
 
 # Build settings
-theme: minima
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
