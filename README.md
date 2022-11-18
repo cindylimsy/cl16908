@@ -1,1 +1,2 @@
-This is a README for my website
+My website for.... academic purposes?
+and fun I guess!
