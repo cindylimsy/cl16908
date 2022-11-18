@@ -18,23 +18,54 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cindy's website
+title: Cindy Lim
+logo: /assets/img/logo.png
 email: cl16908@bristol.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-domain: cl16908.github.io
-baseurl: /cl16908/ # the subpath of your site, e.g. /blog
-url: https://cl16908.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: swarls_lim
-github_username:  cl16908
+  A Geophysics PhD student - University of Bristol, UK.  
+  My research interests:  
+  Microseismic event detection using machine learning,  
+  ML-enhanced catalogues,  
+  mechanisms of induced seismicity.  
+  I am also an Alan Turing Enrichment Community Scheme student.  
+  Other interests: bass and electric guitar, video games, basketball!
+
+favicon: true
+color-scheme: dark
+# domain: cl16908.github.io
+# baseurl: /cl16908/ # the subpath of your site, e.g. /blog
+# url: https://cl16908.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: swarls_lim
+# github_username:  cl16908
 
 # Build settings
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: Twitter
+    icon: <i class="fa-brands fa-twitter"></i>
+    link: https://twitter.com/swarls_lim
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/cl16908
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/cindy-lim-shin-yee/
+
+navigation:
+  - name: Readme
+    link: ./index.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
