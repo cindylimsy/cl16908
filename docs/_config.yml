@@ -21,14 +21,12 @@
 title: Cindy Lim
 logo: /assets/img/logo.png
 email: cl16908@bristol.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  A Geophysics PhD student - University of Bristol, UK.  
-  My research interests:  
-  Microseismic event detection using machine learning,  
-  ML-enhanced catalogues,  
-  mechanisms of induced seismicity.  
-  I am also an Alan Turing Enrichment Community Scheme student.  
-  Other interests: bass and electric guitar, video games, basketball!
+description:  |-  
+  Geophysics PhD student at University of Bristol, UK.  
+
+  Induced seismicity and machine learning.  
+
+  Alan Turing Enrichment Community Scheme student.  
 
 favicon: true
 color-scheme: dark
@@ -48,6 +46,9 @@ plugins:
   - jemoji
 
 platforms:
+  - name: Mastodon
+    icon: <i class="fab fa-mastodon"></i>
+    link: https://mastodon.lol/@swarls_lim
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
     link: https://twitter.com/swarls_lim
