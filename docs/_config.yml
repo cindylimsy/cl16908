@@ -1,40 +1,10 @@
-# Welcome to my website!!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Cindy Lim
 logo: /assets/img/logo.png
 email: cl16908@bristol.ac.uk
-description:  |-  
-  Geophysics PhD student at University of Bristol, UK.  
-
-  Induced seismicity and machine learning.  
-
-  Alan Turing Enrichment Community Scheme student.  
-
+description: Geophysics PhD student. Alan Turing Enrichment Community Scheme student. Bruneian.
 favicon: true
 color-scheme: dark
-# domain: cl16908.github.io
-# baseurl: /cl16908/ # the subpath of your site, e.g. /blog
-# url: https://cl16908.github.io # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: swarls_lim
-# github_username:  cl16908
+url: "https://cindylim.com/"
 
 # Build settings
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
@@ -60,13 +30,21 @@ platforms:
     link: https://www.linkedin.com/in/cindy-lim-shin-yee/
 
 navigation:
-  - name: Readme
+  - name: Home Page
     link: ./index.html
     sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+      - name: About Me
+        link: /#about-me
+      - name: Education
+        link: /#education
+      - name: Skills
+        link: /#skills
+      - name: Experience
+        link: /#experience
+      - name: Achievements and Awards
+        link: /#achievements-and-awards
+  - name: Research
+    link: ./research.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
