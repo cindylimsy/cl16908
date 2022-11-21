@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<a href="/conferences">
 ## Conferences I've been to:
 
 <h3 style="margin-bottom:2px;">STATSEI (Statistical Seismology International Conference) 12</h3>
@@ -50,7 +49,3 @@ layout: default
 <ul style="margin-left: -1.4em;">
   <li>Poster: "Microseismic monitoring using deep learning."</li>
 </ul>
-
-<a href="#conferences" class="back-to-top">
-  Back to Top &uarr;
-</a>
