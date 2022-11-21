@@ -9,11 +9,11 @@ url: "https://cindylim.com/"
 # Build settings
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
+  - jekyll-seo-tag
+  - jemoji
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
 
 platforms:
   - name: Mastodon
