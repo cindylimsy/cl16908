@@ -10,6 +10,7 @@ My PhD is funded by the British Geological Survey (**BGS**) and **COMET**. I am 
 
 After working hours, I enjoy playing the bass and electric guitar, basketball, video games and experiencing amazing views from fieldtrips!
 
+You can find posts about my research adventures [here](https://cindylim.com/research.html)!
 For more random ramblings and/or research progress, follow me on [Twitter](https://twitter.com/swarls_lim) or [Mastodon](https://mastodon.lol/@swarls_lim) since that seems like less of a dumpster fire these days.
 
 ---
