@@ -46,6 +46,9 @@ navigation:
   - name: Research
     link: ./research.html
 
+head_scripts:
+  - /assets/js/my-javscript.js
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
