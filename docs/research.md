@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a href="research.html/#conferences">
+<a href="/research/#conferences">
 ## Conferences I've been to:
 
 <h3 style="margin-bottom:2px;">STATSEI (Statistical Seismology International Conference) 12</h3>
