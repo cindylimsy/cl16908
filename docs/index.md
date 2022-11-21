@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <a href="/about-me">
 ## About Me:
 
