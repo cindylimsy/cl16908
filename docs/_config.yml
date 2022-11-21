@@ -16,6 +16,9 @@ plugins:
   - jekyll-sitemap
 
 platforms:
+  - name: Research
+    icon: <i class="fa-solid fa-book-bookmark"></i>
+    link: https://cindylim.com/research.html
   - name: Mastodon
     icon: <i class="fab fa-mastodon"></i>
     link: https://mastodon.lol/@swarls_lim
