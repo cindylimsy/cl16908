@@ -96,3 +96,7 @@ Jan 2018 - Jun 2019</p>
     <li>Awarded by the Government of Brunei Darussalam, covering undergraduate tuition fees and a monthly stipiend.</li>
   </ul>
 </div>
+
+<a href="#about-me" class="back-to-top">
+  Back to Top &uarr;
+</a>
