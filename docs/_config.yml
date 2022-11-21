@@ -3,7 +3,7 @@ logo: /assets/img/logo.png
 email: cindy.lim@bristol.ac.uk
 description: Geophysics PhD student. Alan Turing Enrichment Community Scheme student. Bruneian.
 favicon: true
-color-scheme: dark
+color-scheme: auto
 url: "https://cindylim.com/"
 
 # Build settings
@@ -25,9 +25,6 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/cl16908
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/cindy-lim-shin-yee/
 
 navigation:
   - name: Home Page
@@ -45,9 +42,6 @@ navigation:
         link: /#achievements-and-awards
   - name: Research
     link: ./research.html
-
-head_scripts:
-  - /assets/js/my-javscript.js
 
 # Exclude from processing.
 # The following items will not be processed, by default.
