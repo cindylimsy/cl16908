@@ -51,6 +51,6 @@ layout: default
   <li>Poster: "Microseismic monitoring using deep learning."</li>
 </ul>
 
-<a href="research.html/#conferences" class="back-to-top">
+<a href="research/#conferences" class="back-to-top">
   Back to Top &uarr;
 </a>
