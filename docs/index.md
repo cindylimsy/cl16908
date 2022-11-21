@@ -2,6 +2,7 @@
 layout: default
 ---
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<a rel="me" href="https://mastodon.lol/@swarls_lim"></a>
 <a href="/about-me">
 ## About Me:
 
