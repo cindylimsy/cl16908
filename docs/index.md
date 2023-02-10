@@ -4,6 +4,9 @@ layout: default
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <a rel="me" href="https://mastodon.lol/@swarls_lim"></a>
 <a href="/about-me">
+
+You can find posts about my research adventures [here](https://cindylim.com/research.html)!
+
 ## About Me:
 
 Hi there! I am **Cindy Lim**, a Geophysics PhD student from the **University of Bristol, UK**. I am interested in induced seismicity, microseismicity and applying machine learning methods to observational seismology. I want to use ML-enhanced catalogues to help inform us more about the mechanisms that induce seismicity!
@@ -12,16 +15,19 @@ My PhD is funded by the British Geological Survey (**BGS**) and **COMET**. I am 
 
 After working hours, I enjoy playing the bass and electric guitar, basketball, video games and experiencing amazing views from fieldtrips!
 
-You can find posts about my research adventures [here](https://cindylim.com/research.html)!
-
 For more random ramblings and/or research progress, follow me on [Twitter](https://twitter.com/swarls_lim) or [Mastodon](https://mastodon.lol/@swarls_lim) since that seems like less of a dumpster fire these days.
 
 ---
 <a href="/education">
 ## Education:
+
+<h3 style="margin-bottom:2px;">PhD in Earth Sciences</h3>
+<h4 style="margin:0;">Department of Earth Sciences, University of Bristol, UK</h4>
+Mar 2021  - <i>present</i>
+
 <h3 style="margin-bottom:2px;">Masters by Research in Earth Sciences</h3>
 <h4 style="margin:0;">Department of Earth Sciences, University of Bristol, UK</h4>
-Sept 2020  - Jan 2021
+Sept 2019  - Jan 2021
 
 <h3 style="margin-bottom:2px;">Bachelors of Science (Hons.) Geophysics</h3>
 <h4 style="margin:0;">Department of Earth Sciences, University of Bristol, UK</h4>
@@ -89,7 +95,7 @@ Jan 2018 - Jun 2019</p>
   <p><b>Python and MATLAB</b></p>
   <ul>
     <li>Hackathon champion of the Hack-Data category in the Copernicus ECMWF's #OpenDataHack2018 hackathon.</li>
-    <li>Developed a user-friendly air quality early warning algorithm that uses data from CAMS (Copernicus Atmosphere Monitoring Service) forecasts in an effort to assess the risk of gas concentrations exceeding EU air quality standards..</li>
+    <li>Developed a user-friendly air quality early warning algorithm that uses data from CAMS (Copernicus Atmosphere Monitoring Service) forecasts in an effort to assess the risk of gas concentrations exceeding EU air quality standards.</li>
   </ul>
 </div>
 
