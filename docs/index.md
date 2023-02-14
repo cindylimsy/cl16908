@@ -5,7 +5,7 @@ layout: default
 <a rel="me" href="https://mastodon.lol/@swarls_lim"></a>
 <a href="/about-me">
 
-You can find posts about my research adventures [here](https://cindylim.com/research.html)!
+### You can find posts about my research adventures [here](https://cindylim.com/research.html)!
 
 ## About Me:
 
