@@ -2,7 +2,7 @@
 layout: default
 ---
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<a rel="me" href="https://mastodon.lol/@swarls_lim"></a>
+<a rel="me" href="https://masto.ai/@earth2cindylim"></a>
 <a href="/about-me">
 
 ### You can find posts about my research adventures [here](https://cindylim.com/research.html)!
@@ -15,7 +15,7 @@ My PhD is funded by the British Geological Survey (**BGS**) and **COMET**. I am 
 
 After working hours, I enjoy playing the bass and electric guitar, basketball, video games and experiencing amazing views from fieldtrips!
 
-For more random ramblings and/or research progress, follow me on [Twitter](https://twitter.com/swarls_lim) or [Mastodon](https://mastodon.lol/@swarls_lim) since that seems like less of a dumpster fire these days.
+For more random ramblings and/or research progress, follow me on [Twitter](https://twitter.com/earth2cindylim) or [Mastodon](https://masto.ai/@earth2cindylim) since that seems like less of a dumpster fire these days.
 
 ---
 <a href="/education">
