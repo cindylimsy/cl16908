@@ -22,10 +22,10 @@ platforms:
     link: https://cindylim.com/research.html
   - name: Mastodon
     icon: <i class="fab fa-mastodon"></i>
-    link: https://mastodon.lol/@swarls_lim
+    link: https://masto.ai/@earth2cindylim
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
-    link: https://twitter.com/swarls_lim
+    link: https://twitter.com/earth2cindylim
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/cl16908
