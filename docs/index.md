@@ -9,13 +9,15 @@ layout: default
 
 ## About Me:
 
-Hi there! I am **Cindy Lim**, a Geophysics PhD student from the **University of Bristol, UK**. I am interested in induced seismicity, microseismicity and applying machine learning methods to observational seismology. I want to use ML-enhanced catalogues to help inform us more about the mechanisms that induce seismicity!
+Hi there! I am **Cindy Lim**, a Geophysics PhD student from the **University of Bristol, UK**. 
+
+I am interested in induced seismicity, microseismicity and applying machine learning methods to observational seismology. I want to use ML-enhanced catalogues to help inform us more about the mechanisms that induce seismicity!
 
 My PhD is funded by the British Geological Survey (**BGS**) and **COMET**. I am also an Alan Turing Enrichment Scheme student. My supervisors are Dr. [Max Werner](https://research-information.bris.ac.uk/en/persons/max-werner) from the University of Bristol and Dr. [Margarita Segou](https://www.bgs.ac.uk/people/segou-margarita/) from the BGS.
 
 After working hours, I enjoy playing the bass and electric guitar, basketball, video games and experiencing amazing views from fieldtrips!
 
-For more random ramblings and/or research progress, follow me on [Twitter](https://twitter.com/earth2cindylim) or [Mastodon](https://masto.ai/@earth2cindylim) since that seems like less of a dumpster fire these days.
+For more random ramblings and/or research progress, follow me on [Twitter](https://twitter.com/swarls_lim) or [Mastodon](https://masto.ai/@earth2cindylim) since that seems like less of a dumpster fire these days.
 
 ---
 <a href="/education">
