@@ -17,7 +17,7 @@ My PhD is funded by the British Geological Survey (**BGS**) and **COMET**. I am 
 
 After working hours, I enjoy playing the bass and electric guitar, basketball, video games and experiencing amazing views from fieldtrips!
 
-For more random ramblings and/or research progress, follow me on [Twitter](https://twitter.com/swarls_lim) or [Mastodon](https://masto.ai/@earth2cindylim) since that seems like less of a dumpster fire these days.
+For more random ramblings and/or research progress, follow me on [Twitter](https://twitter.com/swarls_lim), [Mastodon](https://masto.ai/@earth2cindylim) or BlueSky (@earth2cindylim.bsky.social) since that seems like less of a dumpster fire nowadays.
 
 ---
 <a href="/education">
@@ -85,6 +85,14 @@ Jan 2018 - Jun 2019</p>
 ## Achievements and Awards:
 
 <div class="card">
+  <h3>Turing Enrichment Scheme Community Award 2022</h3>
+  <p><b>Issued by the Alan Turing Institute</b></p>
+  <ul>
+    <li>Awarded to only 50 students across all disciplines in the UK to provide students with opportunities and funds to engage with the UK's premier AI research institute and community.</li>
+  </ul>
+</div>
+
+<div class="card">
   <h3>British Geophysical Association undergraduate prize 2019</h3>
   <p><b>Issued by the British Geophysical Association University</b></p>
   <ul>
@@ -98,14 +106,6 @@ Jan 2018 - Jun 2019</p>
   <ul>
     <li>Hackathon champion of the Hack-Data category in the Copernicus ECMWF's #OpenDataHack2018 hackathon.</li>
     <li>Developed a user-friendly air quality early warning algorithm that uses data from CAMS (Copernicus Atmosphere Monitoring Service) forecasts in an effort to assess the risk of gas concentrations exceeding EU air quality standards.</li>
-  </ul>
-</div>
-
-<div class="card">
-  <h3>Brunei Darussalam Government Educational Scholarship</h3>
-  <p><b>Issued by the Ministry of Education, Brunei Darussalam Government</b></p>
-  <ul>
-    <li>Awarded by the Government of Brunei Darussalam, covering undergraduate tuition fees and a monthly stipiend.</li>
   </ul>
 </div>
 
