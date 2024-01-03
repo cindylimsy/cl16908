@@ -17,9 +17,15 @@ plugins:
   - jekyll-sitemap
 
 platforms:
+  - name: Home
+    icon: <i class="fa-solid fa-house"></i>
+    link: https://cindylim.com
   - name: Research
     icon: <i class="fa-solid fa-book-bookmark"></i>
     link: https://cindylim.com/research.html
+  - name: BlueSky
+    icon: <i class="fa-solid fa-cloud"></i>
+    link: https://bsky.app/profile/earth2cindylim.bsky.social
   - name: Mastodon
     icon: <i class="fab fa-mastodon"></i>
     link: https://masto.ai/@earth2cindylim
@@ -28,7 +34,7 @@ platforms:
     link: https://twitter.com/earth2cindylim
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/cl16908
+    link: https://github.com/cindylimsy
 
 navigation:
   - name: Home Page

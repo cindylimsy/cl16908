@@ -5,11 +5,12 @@ layout: default
 
 <h3 style="margin-bottom:2px;">American Geophysical Union (AGU) Fall Meeting 2023</h3>
 <p style="margin:0;"><b>San Francisco, California</b><br>
-17-21 Apr 2023</p>
+11-15 Dec 2023</p>
 <ul style="margin-left: -1.4em;">
   <li>Poster: "Analyzing low-magnitude induced seismicity using deep learning phase picking: a case study from Preston New Road, UK"</li>
 </ul>
 ![AGU23](./assets/conf/AGU23.png)
+<p style="margin:0;"><center><i>Looking excited to present my poster at AGU!</i></center></p>
 
 <h3 style="margin-bottom:2px;">Seismological Society of America (SSA) Annual Meeting 2023</h3>
 <p style="margin:0;"><b>San Juan, Puerto Rico</b><br>
@@ -20,7 +21,7 @@ layout: default
 ![SSA231](./assets/conf/SSA_group.png)
 <p style="margin:0;"><center><i>Cute group pic with the research group!</i></center></p>
 ![SSA232](./assets/conf/SSA_talk.png)
-<p style="margin:0;"><center><i>Here's me giving my talk at SSA!</i></center></p>
+<p style="margin:0;"><center><i>Giving my talk at SSA!</i></center></p>
 
 
 <h3 style="margin-bottom:2px;">STATSEI (Statistical Seismology International Conference) 12</h3>
